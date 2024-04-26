@@ -1,1 +1,3 @@
 Get the user data
+
+Create an avatar user for user.
